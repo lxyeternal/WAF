@@ -1,18 +1,13 @@
-# WAF
+本项目实现了两种基于机器学习的WAF
 
-环境配置：</br>
+## AiWaf-1
 
-首先要求：python 3.6</br>
-响应的库函数：TensorFlow，python-scapy</br>
+基于聚类的XSS和SQL注入检测
 
+## AiWaf-2
 
-1. train_url.py：</br>
-	>> 该文件主要包含的功能是实现对训练数据的加载以及处理，同时训练模型模块以及预测分析模块也在此</br>
-2. get_url.py:</br>
-	>> 该文件的主要功能是实现抓取数据包，同时将数据包中的URL解析出来</br>
-3. type.py：</br>
-	>> 该文件的主要功能是实现对攻击类型的判断</br>
-4. UI.py：</br>
-	>> 该文件是实现UI界面</br>
-5. Main.py：</br>
-	>> 主函数的执行入口</br>
+基于机器学习的XSS和SQL注入检测
+
+实现了基于GRU，CNN，KNN，SVM，RF共五个检测模型
+
+检测过程：数据加载-》数据预处理(urldecode和转小写)->向量化（预训练word2Vec模型，padding补齐）->模型训练->模型预测->模型评估
