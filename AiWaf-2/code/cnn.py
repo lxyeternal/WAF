@@ -6,7 +6,7 @@
 
 from sklearn.metrics import classification_report
 from sklearn import metrics
-from evaluate import plot_confusion_matrix
+from evaluate import plot_confusion_matrix, evaluate_from_confusion_matrix
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Flatten
 from tensorflow.keras.layers import Convolution2D, MaxPooling2D
@@ -93,4 +93,10 @@ class CNNModel:
         print("classification report: \n", cnn_classification_rep)
         #  绘制混淆矩阵
         plot_confusion_matrix('CNN', cnn_confusion_matrix, self.label_list)
+        evaluate_metrics = evaluate_from_confusion_matrix(cnn_confusion_matrix)
+        print("Classification Metrics:")
+        print("Accuracy: {:.2f}%".format(evaluate_metrics['Accuracy'] * 100))
+        print("Macro Precision: {:.2f}%".format(evaluate_metrics['Macro Precision'] * 100))
+        print("Macro Recall: {:.2f}%".format(evaluate_metrics['Macro Recall'] * 100))
+        print("Macro F1 Score: {:.2f}%".format(evaluate_metrics['Macro F1 Score'] * 100))
 

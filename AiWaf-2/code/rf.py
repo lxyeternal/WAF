@@ -6,58 +6,52 @@
 
 
 import joblib
+import numpy as np
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
-from sklearn import metrics
-from evaluate import plot_confusion_matrix
+from sklearn.metrics import classification_report, accuracy_score, confusion_matrix
+from evaluate import plot_confusion_matrix, evaluate_from_confusion_matrix
 
 
 class RFModel:
-    def __init__(self,label_list,train_data,train_label,test_data,test_label):
+    def __init__(self, label_list, train_data, train_label, test_data, test_label):
         self.label_list = label_list
         self.train_data = train_data
         self.train_label = train_label
         self.test_data = test_data
         self.test_label = test_label
 
-
     def rf_alg(self):
-        rf_model = RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
-                                          max_depth=None, max_features='auto', max_leaf_nodes=None,
-                                          min_samples_leaf=1, min_samples_split=2,
-                                          min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
-                                          oob_score=False, random_state=None, verbose=0,
-                                          warm_start=False)
+        rf_model = RandomForestClassifier(n_estimators=10, max_features='sqrt', random_state=None)
+        print("[INFO] Successfully initialize a RF model!")
+        print("[INFO] Training the model…")
+        rf_model.fit(self.train_data, np.argmax(self.train_label, axis=1))  # Assuming train_label is also one-hot
+        print("[INFO] Model training completed!")
 
-        print("[INFO] Successfully initialize a RF model !")
-        print("[INFO] Training the model…… ")
-        #   进行模型训练
-        rf_model.fit(self.train_data, self.train_label)
-        print("[INFO] Model training completed !")
-        # 保存训练好的模型，下次使用时直接加载就可以了
+        # 保存模型
         model_path = '../model/mult_rf.pkl'
         joblib.dump(rf_model, model_path)
-        print("[INFO] Model has been saved !")
-        #   进行测试数据的预测
+        print("[INFO] Model has been saved!")
+
+        # 进行测试数据的预测
         rf_predictions = rf_model.predict(self.test_data)
-        #   给出每一个标签的预测概率
-        rf_predictions = rf_predictions.tolist()
-        predictios = list()
-        for i in rf_predictions:
-            try:
-                predictios.append(i.index(1))
-            except:
-                predictios.append(0)
-        real_label = list()
-        self.test_label = self.test_label.tolist()
-        for i in self.test_label:
-            real_label.append(i.index(1))
-        #   计算模型的准确率
-        rf_acc = metrics.accuracy_score(rf_predictions, real_label)
-        rf_confusion_matrix = metrics.confusion_matrix(real_label, predictios, sample_weight=None)
-        print("confusion metrix:\n", rf_confusion_matrix)
-        print("overall accuracy: %f" % (rf_acc))
-        rf_classification_rep = classification_report(real_label, predictios, target_names=self.label_list)
-        print("classification report: \n", rf_classification_rep)
-        #  绘制混淆矩阵
-        plot_confusion_matrix('Random Forest',rf_confusion_matrix, self.label_list)
+        # 将预测的类别索引转换为one-hot编码以匹配test_label
+        rf_predictions_onehot = np.eye(len(self.label_list))[rf_predictions]
+
+        # 计算模型的准确率
+        rf_acc = accuracy_score(np.argmax(self.test_label, axis=1), rf_predictions)  # 使用整数索引进行比较
+        print("Overall accuracy: %f" % rf_acc)
+
+        # 生成混淆矩阵和分类报告
+        rf_confusion_matrix = confusion_matrix(np.argmax(self.test_label, axis=1), rf_predictions)
+        print("Confusion matrix:\n", rf_confusion_matrix)
+        rf_classification_rep = classification_report(np.argmax(self.test_label, axis=1), rf_predictions, target_names=self.label_list)
+        print("Classification report: \n", rf_classification_rep)
+
+        # 绘制混淆矩阵
+        plot_confusion_matrix('Random Forest', rf_confusion_matrix, self.label_list)
+        evaluate_metrics = evaluate_from_confusion_matrix(rf_confusion_matrix)
+        print("Classification Metrics:")
+        print("Accuracy: {:.2f}%".format(evaluate_metrics['Accuracy'] * 100))
+        print("Macro Precision: {:.2f}%".format(evaluate_metrics['Macro Precision'] * 100))
+        print("Macro Recall: {:.2f}%".format(evaluate_metrics['Macro Recall'] * 100))
+        print("Macro F1 Score: {:.2f}%".format(evaluate_metrics['Macro F1 Score'] * 100))

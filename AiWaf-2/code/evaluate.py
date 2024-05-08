@@ -111,3 +111,37 @@ def draw_roc(test_real_label,test_pred_label,algname):
     plt.savefig('../images/roc_' + algname + '.jpg')
     # plt.show()
     plt.clf()
+
+
+def evaluate_from_confusion_matrix(conf_matrix):
+    """
+    计算并返回基于混淆矩阵的分类评价指标。
+    参数:
+    conf_matrix (numpy.ndarray): 混淆矩阵，每一行表示真实类别，每一列表示预测类别。
+    返回:
+    dict: 包含准确率、宏观精确度、宏观召回率和宏观F1分数的字典。
+    """
+    # 准确率
+    accuracy = np.trace(conf_matrix) / np.sum(conf_matrix)
+    
+    # 精确度 (防止分母为0的情况)
+    precision = np.diag(conf_matrix) / np.sum(conf_matrix, axis=0)
+    precision = np.nan_to_num(precision)  # 将NaN转换为0
+    macro_precision = np.mean(precision)
+    
+    # 召回率 (防止分母为0的情况)
+    recall = np.diag(conf_matrix) / np.sum(conf_matrix, axis=1)
+    recall = np.nan_to_num(recall)  # 将NaN转换为0
+    macro_recall = np.mean(recall)
+    
+    # F1分数
+    f1_scores = 2 * (precision * recall) / (precision + recall)
+    f1_scores = np.nan_to_num(f1_scores)  # 将NaN转换为0
+    macro_f1_score = np.mean(f1_scores)
+    
+    return {
+        'Accuracy': accuracy,
+        'Macro Precision': macro_precision,
+        'Macro Recall': macro_recall,
+        'Macro F1 Score': macro_f1_score
+    }

@@ -8,7 +8,7 @@
 import numpy as np
 from sklearn.metrics import classification_report
 from sklearn import metrics
-from evaluate import plot_confusion_matrix
+from evaluate import plot_confusion_matrix, evaluate_from_confusion_matrix
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Activation, BatchNormalization
 from tensorflow.keras.layers import Dense, GRU
@@ -73,3 +73,9 @@ class GRUModel:
         print("classification report: \n", gru_classification_rep)
         #  绘制混淆矩阵
         plot_confusion_matrix('GRU', gru_confusion_matrix, self.label_list)
+        evaluate_metrics = evaluate_from_confusion_matrix(gru_confusion_matrix)
+        print("Classification Metrics:")
+        print("Accuracy: {:.2f}%".format(evaluate_metrics['Accuracy'] * 100))
+        print("Macro Precision: {:.2f}%".format(evaluate_metrics['Macro Precision'] * 100))
+        print("Macro Recall: {:.2f}%".format(evaluate_metrics['Macro Recall'] * 100))
+        print("Macro F1 Score: {:.2f}%".format(evaluate_metrics['Macro F1 Score'] * 100))

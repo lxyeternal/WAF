@@ -8,7 +8,7 @@
 import joblib
 from sklearn.metrics import classification_report
 from sklearn import metrics
-from evaluate import plot_confusion_matrix
+from evaluate import plot_confusion_matrix, evaluate_from_confusion_matrix
 from sklearn.neighbors import KNeighborsClassifier
 
 
@@ -51,4 +51,10 @@ class KNNModel:
         print("classification report: \n", knn_classification_rep)
         #  绘制混淆矩阵
         plot_confusion_matrix('KNN', knn_confusion_matrix, self.label_list)
+        evaluate_metrics = evaluate_from_confusion_matrix(knn_confusion_matrix)
+        print("Classification Metrics:")
+        print("Accuracy: {:.2f}%".format(evaluate_metrics['Accuracy'] * 100))
+        print("Macro Precision: {:.2f}%".format(evaluate_metrics['Macro Precision'] * 100))
+        print("Macro Recall: {:.2f}%".format(evaluate_metrics['Macro Recall'] * 100))
+        print("Macro F1 Score: {:.2f}%".format(evaluate_metrics['Macro F1 Score'] * 100))
 

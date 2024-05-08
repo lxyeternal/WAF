@@ -71,8 +71,8 @@ if __name__ == '__main__':
 
     alg = ALG()
     alg.Data()
-    # alg.RF()
-    # alg.KNN()
+    alg.RF()
+    alg.KNN()
     alg.SVM()
-    # alg.CNN()
-    # alg.GRU()
+    alg.CNN()
+    alg.GRU()
