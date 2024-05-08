@@ -36,3 +36,13 @@ AiWaf-2 项目配置了专用的 Conda 环境，以确保所有依赖都得到�
 ```bash
 conda env create -f environment.yml
 conda activate aiwaf-2-env
+```
+
+
+### 运行项目
+
+使用以下命令从 trainmain.py，项目的主入口文件，开始运行 AiWaf-2:
+
+```python
+python trainmain.py
+```
